@@ -21,18 +21,6 @@ h3{
     color:#444;
 }
 
-p{
-    font-size: 18px;
-}
-
-ul{
-    line-height: 1.90;
-}
-
-.foot{
-    text-align: end;
-    font-size: large;
-}
 
 .skill{
     border: 2px solid #0a66c2;
@@ -51,3 +39,14 @@ ul{
     width: 150px;
     text-align: center;
 }
+
+
+p{
+    font-size: 18px;
+}
+
+.foot{
+    text-align: end;
+    font-size: large;
+}
+
